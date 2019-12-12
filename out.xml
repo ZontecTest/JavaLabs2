@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayList>
+	<user>
+		<firstName>Jack</firstName>
+		<middleName>Anudi</middleName>
+		<secondName>Farash</secondName>
+		<uId>20032213</uId>
+		<count>AB070002DX</count>
+		<bankUser>BPS</bankUser>
+	</user>
+	<user>
+		<firstName>Iliy</firstName>
+		<middleName>Ureevich</middleName>
+		<secondName>Marozau</secondName>
+		<uId>312415</uId>
+		<count>AB123402DX</count>
+		<bankUser>RTY</bankUser>
+	</user>
+</ArrayList>
+
