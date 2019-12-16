@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dbMigrate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/company/dbMigrate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
