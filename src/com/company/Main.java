@@ -21,8 +21,8 @@ public class Main {
         }
 
         if(dbMigrate.migrateDB(xmlPath, xsdPath,
-                "jdbc:mysql://localhost:3307/servers?serverTimezone=Europe/Moscow&useSSL=false",
-                "root", "358132134Mm")) {
+                "url",
+                "root", "password here")) {
             System.out.println("Data is migrated successfully!");
         }else {
             System.out.println("Error while process migrating!");
